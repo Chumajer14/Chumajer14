@@ -1,49 +1,86 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090014,45:312E81,100:6D28D9&amp;height=230&amp;section=header&amp;text=Eliseo%20Poblete&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=18&amp;v=3" alt="Eliseo Poblete — Software Engineer"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=230&amp;section=header&amp;text=Eliseo%20Poblete&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20-%20AI%20and%20Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=18"
+    alt="Eliseo Poblete - Software Engineer"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/Chumajer14">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=3200&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=950&amp;height=45&amp;lines=Engineering+secure%2C+scalable%2C+AI-enabled+products;Full-stack+systems+from+architecture+to+deployment;Applied+AI%2C+RAG%2C+cloud+and+product+engineering;Turning+complex+requirements+into+production-ready+systems&amp;v=3" alt="Engineering profile introduction"/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=45&amp;lines=Engineering+secure+and+scalable+digital+products;Full-stack+systems+from+architecture+to+deployment;Applied+AI%2C+RAG%2C+cloud+and+cybersecurity;Turning+complex+requirements+into+working+software"
+      alt="Professional engineering profile"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.utem.cl/">
-    <img src="https://img.shields.io/badge/UTEM-Computer%20Engineering-4C1D95?style=flat-square&amp;logo=academia&amp;logoColor=white" alt="UTEM Computer Engineering"/>
+    <img
+      src="https://img.shields.io/badge/UTEM-Computer%20Engineering-4C1D95?style=flat-square&amp;logo=academia&amp;logoColor=white"
+      alt="UTEM Computer Engineering"
+    />
   </a>
   <a href="https://www.utem.cl/facultades/facultad-de-ingenieria/">
-    <img src="https://img.shields.io/badge/B.Sc.%20Candidate-Software%20Engineering-5B21B6?style=flat-square&amp;logo=graduation-cap&amp;logoColor=white" alt="Computer Engineering candidate"/>
+    <img
+      src="https://img.shields.io/badge/Academic%20Status-Degree%20Candidate-5B21B6?style=flat-square&amp;logo=bookstack&amp;logoColor=white"
+      alt="Computer Engineering degree candidate"
+    />
   </a>
   <a href="https://www.google.com/maps/place/Santiago,+Chile/">
-    <img src="https://img.shields.io/badge/Santiago-Chile-6D28D9?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Santiago, Chile"/>
+    <img
+      src="https://img.shields.io/badge/Santiago-Chile-6D28D9?style=flat-square&amp;logo=googlemaps&amp;logoColor=white"
+      alt="Santiago Chile"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Chumajer14?tab=repositories">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20Projects-4C1D95?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-Explore%20Projects-4C1D95?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://www.linkedin.com/in/eps1">
-    <img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-5B21B6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-5B21B6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:eliseo.poblete18@outlook.cl">
-    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-6D28D9?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/EMAIL-Contact%20Me-6D28D9?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="https://github.com/Chumajer14">
-    <img src="https://img.shields.io/badge/GITHUB-Chumajer14-312E81?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GITHUB-Chumajer14-312E81?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Chumajer14">
-    <img src="https://komarev.com/ghpvc/?username=Chumajer14&amp;label=PROFILE%20VIEWS&amp;color=6D28D9&amp;style=for-the-badge&amp;v=3" alt="Profile views"/>
+    <img
+      src="https://komarev.com/ghpvc/?username=Chumajer14&amp;label=PROFILE%20VIEWS&amp;color=6D28D9&amp;style=for-the-badge"
+      alt="Profile views"
+    />
   </a>
   <a href="https://github.com/Chumajer14?tab=followers">
-    <img src="https://img.shields.io/github/followers/Chumajer14?label=FOLLOWERS&amp;style=for-the-badge&amp;color=5B21B6&amp;labelColor=111827&amp;logo=github" alt="GitHub followers"/>
+    <img
+      src="https://img.shields.io/github/followers/Chumajer14?label=FOLLOWERS&amp;style=for-the-badge&amp;color=5B21B6&amp;labelColor=111827&amp;logo=github"
+      alt="GitHub followers"
+    />
   </a>
   <a href="https://github.com/Chumajer14?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Chumajer14?affiliations=OWNER&amp;label=TOTAL%20STARS&amp;style=for-the-badge&amp;color=4C1D95&amp;labelColor=111827&amp;logo=github" alt="GitHub stars"/>
+    <img
+      src="https://img.shields.io/github/stars/Chumajer14?affiliations=OWNER&amp;label=TOTAL%20STARS&amp;style=for-the-badge&amp;color=4C1D95&amp;labelColor=111827&amp;logo=github"
+      alt="GitHub stars"
+    />
   </a>
 </p>
 
@@ -59,7 +96,7 @@
         I am a Chile-based Computer Engineering student focused on building secure, scalable and measurable digital products. My work spans full-stack software development, serverless cloud architecture, applied artificial intelligence, cybersecurity governance and operational analytics.
       </p>
       <p>
-        I design systems from problem definition through architecture, implementation, validation, deployment and technical documentation. My engineering approach combines software fundamentals with a product mindset: understand the operational context, reduce complexity, protect critical data and deliver maintainable solutions.
+        I work across the complete software lifecycle: problem analysis, requirements, architecture, implementation, validation, deployment and technical documentation. My engineering approach combines software fundamentals with a product mindset and a strong emphasis on maintainability, security and operational value.
       </p>
       <p>
         My current work includes enterprise web platforms, offline-first desktop applications, AWS serverless infrastructure, multi-role authorization, analytics dashboards and retrieval-augmented generation systems using LLM APIs and vector databases.
@@ -73,15 +110,15 @@
       </p>
       <p>
         <strong>AI Engineering</strong><br/>
-        RAG, LLM integration and intelligent automation.
+        RAG, LLM integrations and intelligent automation.
       </p>
       <p>
-        <strong>Cloud & Security</strong><br/>
+        <strong>Cloud and Security</strong><br/>
         AWS, DevOps, cybersecurity and GRC.
       </p>
       <p>
         <strong>Collaboration</strong><br/>
-        Open-source projects and engineering teams.
+        Engineering teams and open-source projects.
       </p>
     </td>
   </tr>
@@ -95,7 +132,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,dart,bash,powershell&amp;theme=dark&amp;perline=9" alt="Programming languages"/>
+    <img
+      src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,dart,bash,powershell&amp;theme=dark&amp;perline=9"
+      alt="Programming languages"
+    />
   </a>
 </p>
 
@@ -103,74 +143,107 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,html,css&amp;theme=dark&amp;perline=6" alt="Frontend technologies"/>
+    <img
+      src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,html,css&amp;theme=dark&amp;perline=6"
+      alt="Frontend technologies"
+    />
   </a>
 </p>
 
-<h3 align="center">Backend & Databases</h3>
+<h3 align="center">Backend and Databases</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,firebase,postgres,mysql,sqlite&amp;theme=dark&amp;perline=7" alt="Backend and database technologies"/>
+    <img
+      src="https://skillicons.dev/icons?i=fastapi,nodejs,express,firebase,postgres,mysql,sqlite&amp;theme=dark&amp;perline=7"
+      alt="Backend and database technologies"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Lambda-Serverless-4C1D95?style=flat-square&amp;logo=awslambda&amp;logoColor=white" alt="AWS Lambda"/>
-  <img src="https://img.shields.io/badge/DynamoDB-NoSQL-5B21B6?style=flat-square&amp;logo=amazondynamodb&amp;logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/Cloud%20Firestore-Document%20Database-6D28D9?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Cloud Firestore"/>
-  <img src="https://img.shields.io/badge/Chroma-Vector%20Database-7C3AED?style=flat-square&amp;logo=databricks&amp;logoColor=white" alt="Chroma vector database"/>
+  <img
+    src="https://img.shields.io/badge/AWS%20Lambda-Serverless-4C1D95?style=flat-square&amp;logo=awslambda&amp;logoColor=white"
+    alt="AWS Lambda"
+  />
+  <img
+    src="https://img.shields.io/badge/DynamoDB-NoSQL-5B21B6?style=flat-square&amp;logo=amazondynamodb&amp;logoColor=white"
+    alt="DynamoDB"
+  />
+  <img
+    src="https://img.shields.io/badge/Cloud%20Firestore-Document%20Database-6D28D9?style=flat-square&amp;logo=firebase&amp;logoColor=white"
+    alt="Cloud Firestore"
+  />
+  <img
+    src="https://img.shields.io/badge/Chroma-Vector%20Database-7C3AED?style=flat-square&amp;logo=databricks&amp;logoColor=white"
+    alt="Chroma"
+  />
 </p>
 
-<h3 align="center">Cloud, DevOps & Tooling</h3>
+<h3 align="center">Cloud, DevOps and Tooling</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github,linux,postman,vercel,vscode,figma&amp;theme=dark&amp;perline=11" alt="Cloud, DevOps and engineering tools"/>
+    <img
+      src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github,linux,postman,vercel,vscode,figma&amp;theme=dark&amp;perline=11"
+      alt="Cloud DevOps and engineering tools"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20CDK-Infrastructure%20as%20Code-4C1D95?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS CDK"/>
-  <img src="https://img.shields.io/badge/API%20Gateway-HTTP%20APIs-5B21B6?style=flat-square&amp;logo=amazonapigateway&amp;logoColor=white" alt="API Gateway"/>
-  <img src="https://img.shields.io/badge/OpenAPI-API%20Contracts-6D28D9?style=flat-square&amp;logo=swagger&amp;logoColor=white" alt="OpenAPI"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-7C3AED?style=flat-square&amp;logo=powerbi&amp;logoColor=white" alt="Power BI"/>
+  <img
+    src="https://img.shields.io/badge/AWS%20CDK-Infrastructure%20as%20Code-4C1D95?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white"
+    alt="AWS CDK"
+  />
+  <img
+    src="https://img.shields.io/badge/API%20Gateway-HTTP%20APIs-5B21B6?style=flat-square&amp;logo=amazonapigateway&amp;logoColor=white"
+    alt="API Gateway"
+  />
+  <img
+    src="https://img.shields.io/badge/OpenAPI-API%20Contracts-6D28D9?style=flat-square&amp;logo=swagger&amp;logoColor=white"
+    alt="OpenAPI"
+  />
+  <img
+    src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-7C3AED?style=flat-square&amp;logo=powerbi&amp;logoColor=white"
+    alt="Power BI"
+  />
 </p>
 
 ---
 
-<h2 align="center">AI / ML Expertise</h2>
+<h2 align="center">AI and Machine Learning Expertise</h2>
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Retrieval-Augmented Generation** | ![Advanced Applied](https://img.shields.io/badge/Applied-Advanced-6D28D9?style=flat-square) | Design of document ingestion, indexing, retrieval, conversation history and controlled knowledge-assistant workflows. |
-| **LLM API Integration** | ![Advanced Applied](https://img.shields.io/badge/Applied-Advanced-6D28D9?style=flat-square) | Secure backend integration with hosted language models, prompt orchestration, access control and response handling. |
-| **Embeddings & Vector Search** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-5B21B6?style=flat-square) | Semantic retrieval, vector indexing, metadata filtering, document chunking and persistent vector stores. |
-| **Data Analysis & ML Workflows** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-5B21B6?style=flat-square) | Python-based data preparation, exploratory analysis, KPI generation, visualization and model-oriented workflows. |
-| **AI Security & Governance** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-4C1D95?style=flat-square) | Threat-aware AI integration, private-data controls, model limitations, auditability and responsible deployment practices. |
-| **Prompt & Agentic Automation** | ![Advanced Applied](https://img.shields.io/badge/Applied-Advanced-6D28D9?style=flat-square) | Structured prompting, coding agents, workflow decomposition, repository automation and tool-assisted engineering. |
+| **Retrieval-Augmented Generation** | ![Applied Advanced](https://img.shields.io/badge/Applied-Advanced-6D28D9?style=flat-square) | Document ingestion, chunking, indexing, semantic retrieval, conversation history and controlled assistant workflows. |
+| **LLM API Integration** | ![Applied Advanced](https://img.shields.io/badge/Applied-Advanced-6D28D9?style=flat-square) | Backend integration with language models, prompt orchestration, access control and response processing. |
+| **Embeddings and Vector Search** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-5B21B6?style=flat-square) | Semantic retrieval, metadata filtering, vector indexing and persistent vector stores. |
+| **Data Analysis and ML Workflows** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-5B21B6?style=flat-square) | Python data preparation, exploratory analysis, KPI generation, visualization and model-oriented workflows. |
+| **AI Security and Governance** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-4C1D95?style=flat-square) | Private-data controls, model limitations, risk analysis, auditability and responsible deployment. |
+| **Agentic Engineering** | ![Applied Advanced](https://img.shields.io/badge/Applied-Advanced-6D28D9?style=flat-square) | Structured prompting, coding agents, repository automation and tool-assisted engineering. |
 
 ---
 
 <h2 align="center">Featured Projects</h2>
 
 <details>
-  <summary><strong>CUBO Control RR.HH. — Cloud Attendance & Workforce Intelligence Platform</strong></summary>
+  <summary><strong>CUBO Control RR.HH. — Cloud Attendance and Workforce Intelligence Platform</strong></summary>
 
 <br/>
 
-CUBO is an end-to-end workforce attendance platform composed of an administrative web console, an Electron-based attendance terminal and a serverless AWS backend. It supports manual and QR-based identity capture, offline event queues, synchronization, employee management, terminal monitoring and operational analytics.
+CUBO is an end-to-end workforce attendance platform composed of an administrative web console, an Electron-based attendance terminal and a serverless AWS backend.
 
 | Engineering Dimension | Implementation |
 |:---|:---|
 | **Stack** | React, Vite, Electron, TypeScript, Python, AWS CDK, Lambda, API Gateway, DynamoDB, Cognito, S3 and CloudFront |
-| **Scale** | Architecture designed for more than 20 distributed attendance terminals with intermittent connectivity |
+| **Scale** | Designed for more than 20 distributed attendance terminals with intermittent connectivity |
 | **Performance** | CDN-delivered administration portal, serverless request processing and resilient offline synchronization |
-| **Security** | Cognito JWT validation, IAM controls, RUN validation, restricted terminal states and minimization of sensitive QR data |
-| **Impact** | Centralizes attendance events, shift visibility, lunch-time analysis, terminal health and HR operational intelligence |
+| **Security** | Cognito JWT validation, IAM controls, RUN validation and sensitive-data minimization |
+| **Impact** | Centralizes attendance events, shift visibility, lunch analysis, alerts and terminal monitoring |
 | **Repository** | [github.com/Chumajer14/cubo-control-rrhh-nube](https://github.com/Chumajer14/cubo-control-rrhh-nube) |
 
-The platform was engineered around real operational constraints rather than a web-only workflow. Attendance terminals can continue registering events during network interruptions and synchronize the queue when connectivity returns.
+The platform was engineered around real operational constraints rather than a web-only workflow. Attendance terminals can continue registering events during network interruptions and synchronize their local queues when connectivity returns.
 
 Offline records exclude PIN values, complete QR payloads and identity-document MRZ data. The administrative layer provides workforce visibility through attendance metrics, shift calculations, lunch-duration monitoring, late-arrival indicators, failed attempts and terminal-status alerts.
 
@@ -181,52 +254,74 @@ Infrastructure is managed as code through AWS CDK, supporting repeatable deploym
 <br/>
 
 <details>
-  <summary><strong>Enci Ventas — Enterprise MiniCRM & RAG Commercial Platform</strong></summary>
+  <summary><strong>Enci Ventas — Enterprise MiniCRM and RAG Commercial Platform</strong></summary>
 
 <br/>
 
-Enci Ventas is a multi-role commercial management system created for Enci. The platform centralizes customers, interactions, opportunities, proposals, forecasts, user administration, CSV imports, sales dashboards and document-assisted AI workflows.
+Enci Ventas is a multi-role commercial management system that centralizes customers, interactions, opportunities, proposals, forecasts, user administration, CSV imports, dashboards and document-assisted AI workflows.
 
 | Engineering Dimension | Implementation |
 |:---|:---|
 | **Stack** | React, Vite, FastAPI, Python, Firebase Auth, Firebase Admin, Cloud Firestore, DeepSeek, Chroma, GCS and Vercel |
-| **Scale** | Multi-role CRM covering sellers, supervisors and administrators across the complete commercial workflow |
-| **Performance** | Paginated APIs, optimized search and filtering, static frontend delivery and asynchronous backend operations |
-| **Security** | Bearer-token verification, backend-controlled authorization, inactive-user blocking and deny-all direct Firestore rules |
-| **Impact** | Replaces fragmented commercial processes with a centralized, auditable and data-driven sales workspace |
+| **Scale** | Multi-role CRM for sellers, supervisors and administrators |
+| **Performance** | Paginated APIs, optimized search, static frontend delivery and asynchronous backend operations |
+| **Security** | Bearer-token verification, backend authorization and deny-all direct Firestore rules |
+| **Impact** | Replaces fragmented commercial processes with a centralized and auditable workspace |
 | **Repository** | [github.com/Chumajer14/Encipharm](https://github.com/Chumajer14/Encipharm) |
 
 The platform follows a backend-first security model. Business data is accessed through authenticated FastAPI endpoints instead of unrestricted client-side database access.
 
 Users are synchronized from Firebase Authentication and governed through application roles, account states and channel-specific permissions.
 
-The applied AI component implements a controlled RAG workflow with conversational history, document upload, document indexing, reindexing and administrator-restricted corpus management.
-
-DeepSeek is consumed exclusively through the backend, while Chroma provides configurable semantic indexing.
+The AI component implements a controlled RAG workflow with conversation history, document upload, indexing, reindexing and administrator-restricted corpus management.
 
 </details>
 
 <br/>
 
 <details>
-  <summary><strong>CyberGreen Nexus — Cybersecurity & Digital Sustainability Initiative</strong></summary>
+  <summary><strong>CyberGreen Nexus — Cybersecurity and Digital Sustainability Initiative</strong></summary>
 
 <br/>
 
-CyberGreen Nexus is an innovation initiative that combines cybersecurity awareness, digital sustainability and responsible technology use for SMEs and university communities.
+CyberGreen Nexus is an innovation initiative combining cybersecurity awareness, digital sustainability and responsible technology use for SMEs and university communities.
 
 | Engineering Dimension | Implementation |
 |:---|:---|
 | **Stack** | Cybersecurity frameworks, awareness simulations, digital sustainability metrics and educational platforms |
-| **Scale** | Designed for training, diagnostics and awareness activities across SMEs and university communities |
-| **Performance** | Modular workshops and evaluation mechanisms that can be adapted to different organizational contexts |
-| **Security** | Focused on phishing, vishing, deepfakes, secure digital behavior and responsible information management |
-| **Impact** | Connects cybersecurity education with sustainable digital practices and social responsibility |
+| **Scale** | Designed for SMEs, students and university communities |
+| **Performance** | Modular workshops and diagnostic mechanisms adaptable to different organizations |
+| **Security** | Focused on phishing, vishing, deepfakes and secure digital behavior |
+| **Impact** | Connects cybersecurity education with sustainable and responsible technology practices |
 | **Recognition** | INNOVA UTEM 2025 — Leadership with a gender perspective |
 
-The project addresses the growing exposure of organizations and communities to phishing, vishing, social engineering and AI-assisted deception.
+The project addresses growing exposure to phishing, vishing, social engineering and AI-assisted deception.
 
-Its approach combines cybersecurity diagnostics, practical training, simulation exercises and digital eco-hygiene practices intended to reduce unnecessary technological consumption and improve responsible digital behavior.
+Its approach combines diagnostics, practical training, simulation exercises and digital eco-hygiene practices intended to reduce unnecessary technological consumption and improve responsible digital behavior.
+
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>DataCycle Chile — Secure Technology Circular Economy Platform</strong></summary>
+
+<br/>
+
+DataCycle Chile is a B2B technology circular-economy concept focused on secure device retirement, certified data erasure, chain of custody and environmental traceability.
+
+| Engineering Dimension | Implementation |
+|:---|:---|
+| **Stack** | Web platform, QR traceability, secure-erasure workflows, reporting and audit records |
+| **Scale** | Designed for companies managing inventories of computers, mobile devices and storage media |
+| **Performance** | Standardized device intake, diagnosis, sanitization, reuse and recycling workflows |
+| **Security** | Certified data erasure, chain of custody, evidence records and controlled equipment handling |
+| **Impact** | Reduces electronic waste while protecting confidential organizational information |
+| **Status** | Startup proposal and innovation concept |
+
+The platform records each asset through a unique QR identifier, maintains its custody history and determines whether the equipment should be repaired, reused, donated, sold or recycled.
+
+Its value proposition combines cybersecurity, environmental reporting and social impact in a single traceable operational process.
 
 </details>
 
@@ -235,40 +330,40 @@ Its approach combines cybersecurity diagnostics, practical training, simulation 
 <h2 align="center">Experience</h2>
 
 ### Software Engineering Project Contributor  
-**Enci · Grupo PLM, Universidad Tecnológica Metropolitana**  
+**Enci · Grupo PLM · Universidad Tecnológica Metropolitana**  
 `2026`
 
 Contributed to the engineering, technical audit and delivery preparation of a full-stack commercial platform integrating CRM capabilities, role-based security, cloud identity and retrieval-augmented generation.
 
 - Reviewed frontend, backend, authentication and database architecture.
-- Strengthened API authorization and direct-database access controls.
+- Strengthened API authorization and database-access controls.
 - Validated CRM workflows, RAG endpoints and document-management functionality.
-- Produced technical inventories, security evidence, QA procedures and deployment documentation.
-- Supported delivery readiness, UAT preparation and residual-risk analysis.
+- Produced technical inventories, security evidence and QA procedures.
+- Supported deployment readiness, UAT preparation and residual-risk analysis.
 
 ![React](https://img.shields.io/badge/React-111827?style=flat-square&amp;logo=react&amp;logoColor=A78BFA)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&amp;logo=fastapi&amp;logoColor=A78BFA)
 ![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat-square&amp;logo=firebase&amp;logoColor=A78BFA)
 ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&amp;logo=python&amp;logoColor=A78BFA)
 ![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square&amp;logo=openai&amp;logoColor=A78BFA)
-![Security](https://img.shields.io/badge/Security-111827?style=flat-square&amp;logo=shield&amp;logoColor=A78BFA)
+![Security](https://img.shields.io/badge/Security-111827?style=flat-square&amp;logo=hackthebox&amp;logoColor=A78BFA)
 
 <br/>
 
-### Security & Governance Engineer  
+### Security and Governance Engineer  
 **CUBO Workforce Control · Universidad Tecnológica Metropolitana**  
 `2026`
 
 Led security-governance analysis and contributed to the implementation of an AWS-based attendance-control ecosystem with web, desktop and serverless components.
 
-- Applied NIST Cybersecurity Framework concepts across Govern, Identify, Protect, Detect, Respond and Recover.
-- Defined IAM, auditability, monitoring, data-minimization and incident-response controls.
-- Supported AWS CDK infrastructure using Lambda, API Gateway, DynamoDB, Cognito, S3 and CloudFront.
-- Designed operational alerts for disconnected terminals, failed authentication and abnormal attendance activity.
-- Contributed to security, compliance, architecture and technical-closure documentation.
+- Applied NIST Cybersecurity Framework concepts.
+- Defined IAM, auditability, monitoring and data-minimization controls.
+- Supported AWS CDK infrastructure using Lambda, API Gateway and DynamoDB.
+- Designed alerts for disconnected terminals and failed authentication.
+- Contributed to architecture, security and compliance documentation.
 
 ![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=A78BFA)
-![NIST](https://img.shields.io/badge/NIST%20CSF-111827?style=flat-square&amp;logo=nist&amp;logoColor=A78BFA)
+![NIST](https://img.shields.io/badge/NIST%20CSF-111827?style=flat-square&amp;logo=bookstack&amp;logoColor=A78BFA)
 ![IAM](https://img.shields.io/badge/IAM-111827?style=flat-square&amp;logo=amazoniam&amp;logoColor=A78BFA)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-111827?style=flat-square&amp;logo=amazondynamodb&amp;logoColor=A78BFA)
 ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-111827?style=flat-square&amp;logo=icloud&amp;logoColor=A78BFA)
@@ -282,10 +377,10 @@ Led security-governance analysis and contributed to the implementation of an AWS
 
 Participated in the design and development of a cybersecurity and digital-sustainability initiative focused on SMEs and university communities.
 
-- Designed cybersecurity awareness and risk-diagnosis activities.
-- Developed content related to phishing, vishing, deepfakes and responsible digital behavior.
-- Connected cybersecurity practices with sustainability and social-impact objectives.
-- Contributed to project planning, presentation and innovation-funding activities.
+- Designed cybersecurity-awareness and risk-diagnosis activities.
+- Developed content related to phishing, vishing and deepfakes.
+- Connected cybersecurity practices with sustainability objectives.
+- Contributed to project planning, presentation and funding activities.
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&amp;logo=hackthebox&amp;logoColor=A78BFA)
 ![Innovation](https://img.shields.io/badge/Innovation-111827?style=flat-square&amp;logo=probot&amp;logoColor=A78BFA)
@@ -297,64 +392,81 @@ Participated in the design and development of a cybersecurity and digital-sustai
 
 | Recognition | Details |
 |:---:|:---|
-| **INNOVA UTEM 2025** | CyberGreen Nexus received recognition for leadership with a gender perspective, combining cybersecurity education with digital sustainability. |
-| **Student Engineering Leadership** | Served as Interim President of the Computer Engineering Student Center at Universidad Tecnológica Metropolitana. |
-| **Electoral Governance** | Participated in TRICEL Informática, supporting transparent student electoral processes and institutional governance. |
-| **End-to-End Product Delivery** | Contributed across requirements, architecture, implementation, security, QA, deployment and documentation for enterprise-oriented systems. |
-| **Cybersecurity & Sustainability Innovation** | Designed initiatives connecting secure digital practices, social impact, responsible technology use and environmental sustainability. |
+| **INNOVA UTEM 2025** | CyberGreen Nexus received recognition for leadership with a gender perspective. |
+| **Student Engineering Leadership** | Interim President of the Computer Engineering Student Center at UTEM. |
+| **Electoral Governance** | Member of TRICEL Informática, supporting transparent student electoral processes. |
+| **End-to-End Product Delivery** | Experience across requirements, architecture, implementation, security, QA and documentation. |
+| **Cybersecurity Innovation** | Development of initiatives connecting cybersecurity, sustainability and social impact. |
 
 ---
 
-<h2 align="center">Certifications & Professional Training</h2>
+<h2 align="center">Professional Training</h2>
 
-### AWS
+<h3>AWS</h3>
 
 <p>
   <a href="https://aws.amazon.com/training/">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Architecture%20Learning-4C1D95?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS cloud architecture learning"/>
+    <img
+      src="https://img.shields.io/badge/AWS-Cloud%20Architecture%20Learning-4C1D95?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white"
+      alt="AWS cloud architecture learning"
+    />
   </a>
   <a href="https://aws.amazon.com/serverless/">
-    <img src="https://img.shields.io/badge/AWS-Serverless%20Engineering%20Practice-5B21B6?style=for-the-badge&amp;logo=awslambda&amp;logoColor=white" alt="AWS serverless engineering"/>
+    <img
+      src="https://img.shields.io/badge/AWS-Serverless%20Engineering%20Practice-5B21B6?style=for-the-badge&amp;logo=awslambda&amp;logoColor=white"
+      alt="AWS serverless engineering"
+    />
   </a>
 </p>
 
-### Oracle
+<h3>Oracle</h3>
 
 <p>
   <a href="https://education.oracle.com/">
-    <img src="https://img.shields.io/badge/Oracle-Java%20%26%20Database%20Learning-6D28D9?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle Java and database learning"/>
+    <img
+      src="https://img.shields.io/badge/Oracle-Java%20and%20Database%20Learning-6D28D9?style=for-the-badge&amp;logo=oracle&amp;logoColor=white"
+      alt="Oracle Java and database learning"
+    />
   </a>
 </p>
 
-### NPTEL
+<h3>NPTEL</h3>
 
 <p>
   <a href="https://nptel.ac.in/courses">
-    <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing%20Learning%20Track-7C3AED?style=for-the-badge&amp;logo=icloud&amp;logoColor=white" alt="NPTEL cloud computing learning track"/>
+    <img
+      src="https://img.shields.io/badge/NPTEL-Cloud%20Computing%20Learning%20Track-7C3AED?style=for-the-badge&amp;logo=icloud&amp;logoColor=white"
+      alt="NPTEL cloud computing learning"
+    />
   </a>
 </p>
 
-### Cisco
+<h3>Cisco</h3>
 
 <p>
   <a href="https://www.netacad.com/">
-    <img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Cybersecurity%20Learning-4F46E5?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco networking and cybersecurity learning"/>
+    <img
+      src="https://img.shields.io/badge/Cisco-Networking%20and%20Cybersecurity%20Learning-4F46E5?style=for-the-badge&amp;logo=cisco&amp;logoColor=white"
+      alt="Cisco networking and cybersecurity learning"
+    />
   </a>
 </p>
 
-### Additional Training
+<h3>Additional Training</h3>
 
 <p>
-  <a href="https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i">
-    <img src="https://img.shields.io/badge/Red%20Hat-System%20Administration%20I%209.3-4C1D95?style=for-the-badge&amp;logo=redhat&amp;logoColor=white" alt="Red Hat System Administration I"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-Basic%20Data%20Analysis-5B21B6?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white" alt="Power BI basic data analysis"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-Intermediate%20Data%20Analysis-6D28D9?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white" alt="Power BI intermediate data analysis"/>
-  </a>
-  <img src="https://img.shields.io/badge/Information%20Security-SGSI%20%26%20SGIP%20Workshop-7C3AED?style=for-the-badge&amp;logo=securityscorecard&amp;logoColor=white" alt="SGSI and SGIP workshop"/>
+  <img
+    src="https://img.shields.io/badge/Red%20Hat-System%20Administration%20I-4C1D95?style=for-the-badge&amp;logo=redhat&amp;logoColor=white"
+    alt="Red Hat System Administration"
+  />
+  <img
+    src="https://img.shields.io/badge/Power%20BI-Data%20Analysis-5B21B6?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white"
+    alt="Power BI Data Analysis"
+  />
+  <img
+    src="https://img.shields.io/badge/Information%20Security-SGSI%20and%20SGIP-7C3AED?style=for-the-badge&amp;logo=securityscorecard&amp;logoColor=white"
+    alt="Information security training"
+  />
 </p>
 
 ---
@@ -363,16 +475,28 @@ Participated in the design and development of a cybersecurity and digital-sustai
 
 <p align="center">
   <a href="https://leetcode.com/u/Chumajer14/">
-    <img src="https://img.shields.io/badge/LEETCODE-Chumajer14-4C1D95?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode profile"/>
+    <img
+      src="https://img.shields.io/badge/LEETCODE-Chumajer14-4C1D95?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"
+      alt="LeetCode"
+    />
   </a>
   <a href="https://www.geeksforgeeks.org/user/chumajer14/">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-Chumajer14-5B21B6?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="GeeksforGeeks profile"/>
+    <img
+      src="https://img.shields.io/badge/GEEKSFORGEEKS-Chumajer14-5B21B6?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white"
+      alt="GeeksforGeeks"
+    />
   </a>
   <a href="https://www.hackerrank.com/profile/Chumajer14">
-    <img src="https://img.shields.io/badge/HACKERRANK-Chumajer14-6D28D9?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" alt="HackerRank profile"/>
+    <img
+      src="https://img.shields.io/badge/HACKERRANK-Chumajer14-6D28D9?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white"
+      alt="HackerRank"
+    />
   </a>
   <a href="https://www.codechef.com/users/chumajer14">
-    <img src="https://img.shields.io/badge/CODECHEF-Chumajer14-7C3AED?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef profile"/>
+    <img
+      src="https://img.shields.io/badge/CODECHEF-Chumajer14-7C3AED?style=for-the-badge&amp;logo=codechef&amp;logoColor=white"
+      alt="CodeChef"
+    />
   </a>
 </p>
 
@@ -381,18 +505,32 @@ Participated in the design and development of a cybersecurity and digital-sustai
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/Chumajer14">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chumajer14&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;hide_border=true&amp;theme=transparent&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=C9D1D9&amp;ring_color=7C3AED&amp;cache_seconds=86400&amp;v=3" alt="Eliseo Poblete GitHub statistics"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img width="49%" src="https://streak-stats.demolab.com?user=Chumajer14&amp;hide_border=true&amp;background=0D1117&amp;stroke=312E81&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakNum=FFFFFF&amp;sideNums=C4B5FD&amp;currStreakLabel=A78BFA&amp;sideLabels=DDD6FE&amp;dates=8B949E&amp;v=3" alt="GitHub contribution streak"/>
-  </a>
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chumajer14&amp;theme=tokyonight"
+    alt="GitHub statistics"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chumajer14&amp;theme=tokyonight"
+    alt="Languages by repository"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Chumajer14?tab=repositories">
-    <img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chumajer14&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;theme=transparent&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;card_width=700&amp;cache_seconds=86400&amp;v=3" alt="Most used programming languages"/>
-  </a>
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chumajer14&amp;theme=tokyonight"
+    alt="GitHub profile details"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="58%"
+    src="https://streak-stats.demolab.com?user=Chumajer14&amp;hide_border=true&amp;background=0D1117&amp;stroke=312E81&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakNum=FFFFFF&amp;sideNums=C4B5FD&amp;currStreakLabel=A78BFA&amp;sideLabels=DDD6FE&amp;dates=8B949E"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 ---
@@ -400,9 +538,22 @@ Participated in the design and development of a cybersecurity and digital-sustai
 <h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Chumajer14&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=7&amp;v=3" alt="GitHub profile trophies"/>
-  </a>
+  <img
+    src="https://img.shields.io/badge/ENGINEERING-Full%20Stack-4C1D95?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+    alt="Full-stack engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/CLOUD-AWS%20Serverless-5B21B6?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white"
+    alt="AWS serverless"
+  />
+  <img
+    src="https://img.shields.io/badge/AI-RAG%20Engineering-6D28D9?style=for-the-badge&amp;logo=openai&amp;logoColor=white"
+    alt="RAG engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/SECURITY-GRC%20and%20NIST-7C3AED?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=white"
+    alt="Security GRC and NIST"
+  />
 </p>
 
 ---
@@ -410,9 +561,11 @@ Participated in the design and development of a cybersecurity and digital-sustai
 <h2 align="center">Contribution Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/Chumajer14">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chumajer14&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=8B5CF6&amp;point=DDD6FE&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true&amp;custom_title=Engineering%20Contribution%20Activity&amp;v=3" alt="GitHub contribution activity graph"/>
-  </a>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Chumajer14&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=8B5CF6&amp;point=DDD6FE&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true&amp;custom_title=Engineering%20Contribution%20Activity"
+    alt="GitHub contribution activity graph"
+  />
 </p>
 
 ---
@@ -420,11 +573,12 @@ Participated in the design and development of a cybersecurity and digital-sustai
 <h2 align="center">Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chumajer14/Chumajer14/output/github-contribution-grid-snake-dark.svg?v=3"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chumajer14/Chumajer14/output/github-contribution-grid-snake.svg?v=3"/>
-    <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Chumajer14/Chumajer14/output/github-contribution-grid-snake-dark.svg?v=3"/>
-  </picture>
+  <a href="https://github.com/Chumajer14?tab=overview">
+    <img
+      src="https://img.shields.io/badge/CONTRIBUTIONS-View%20GitHub%20Activity-6D28D9?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white"
+      alt="View contribution activity"
+    />
+  </a>
 </p>
 
 ---
@@ -435,24 +589,70 @@ Participated in the design and development of a cybersecurity and digital-sustai
 learning:
   - advanced AWS security and serverless architecture
   - production-grade RAG evaluation and observability
-  - distributed systems, event-driven design and platform engineering
-  - cybersecurity governance, risk management and compliance
+  - distributed systems and event-driven architecture
+  - cybersecurity governance risk and compliance
 
 building:
-  - secure full-stack products with measurable operational impact
-  - cloud-native platforms using AWS and infrastructure as code
-  - offline-first applications for real-world operating environments
-  - intelligent workflows combining structured data and generative AI
+  - secure full-stack products
+  - cloud-native platforms using infrastructure as code
+  - offline-first applications
+  - intelligent workflows using generative AI
 
 exploring:
-  - agentic software engineering and repository automation
-  - AI-assisted security operations and governance
-  - resilient synchronization patterns for edge and field systems
-  - sustainable technology and circular digital-economy models
+  - agentic software engineering
+  - AI-assisted security operations
+  - resilient edge synchronization
+  - sustainable technology and circular economy models
 
 open_to:
-  - software engineering and full-stack opportunities
-  - backend, platform and cloud engineering roles
-  - AI engineering and retrieval-augmented generation projects
-  - cybersecurity, GRC and secure product-development initiatives
-  - open-source collaboration with engineering-focused teams
+  - software engineering opportunities
+  - backend and cloud engineering roles
+  - AI engineering projects
+  - cybersecurity and GRC initiatives
+  - open-source collaboration
+```
+
+---
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="mailto:eliseo.poblete18@outlook.cl">
+    <img
+      src="https://img.shields.io/badge/EMAIL-Start%20a%20Conversation-4C1D95?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/eps1">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-Connect%20Professionally-5B21B6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/Chumajer14">
+    <img
+      src="https://img.shields.io/badge/GITHUB-Follow%20My%20Work-6D28D9?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://github.com/Chumajer14?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-View%20Engineering%20Projects-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>I design systems that transform complex operational problems into secure, measurable and maintainable software.</strong>
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=24,20,12&amp;height=130&amp;section=footer"
+    alt="Footer"
+  />
+</p>
